@@ -14,5 +14,6 @@ public class Solution {
             String result = String.format("%d x %d = %d", n, i, n*i);
             System.out.println(result);
         }
+        scan.close();
     }
 }

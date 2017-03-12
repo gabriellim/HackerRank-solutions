@@ -28,6 +28,6 @@ public class Solution {
             
             n -= 1;
         }
-        
+        scan.close();
     }
 }
