@@ -1,4 +1,4 @@
-﻿# HackerRank-solutions
+# HackerRank-solutions
 
 Solving [HackerRank](https://www.hackerrank.com/)
 
