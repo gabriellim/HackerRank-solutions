@@ -8,4 +8,4 @@ Solving [HackerRank](https://www.hackerrank.com/)
 
 * [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
   * Unfinished Days: 1-9
-  * Finished Days: 0
+  * Finished Days: 0,2
