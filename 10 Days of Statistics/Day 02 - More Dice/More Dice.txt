@@ -1,0 +1,16 @@
+Task
+In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probability that the values rolled by each die will be different and the two dice have a sum of 6.
+
+Let A = each die is the same
+A = [(1,1), (2,2), (3,3), (4,4), (5,5), (6,6)] * 2
+P(A) = 12/36 = 1/3
+
+Let B = each die is different
+P(B) = 1 - P(A) = 1 - 1/3 = 2/3
+
+Let C = dice sum of 6
+B = (1,5), (2,4), (3,3), (3,3), (4,2), (5,1)
+P(B) = 6/36 = 1/6
+
+Event B and Event C are considered independent (outcome of B has no impact on C)
+so P(B and C) = P(B) * P(C) = 2/3 * 1/6 = 2/18 = 1/9
