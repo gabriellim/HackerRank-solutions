@@ -14,4 +14,4 @@ Solving [HackerRank](https://www.hackerrank.com/)
 ### Programming Languages
 * [Java](https://www.hackerrank.com/domains/java/)
   * [Introduction Challenges](https://www.hackerrank.com/domains/java/java-introduction/) (10/13)
-  * [Strings](https://www.hackerrank.com/domains/java/java-strings/) (3/11)
+  * [Strings](https://www.hackerrank.com/domains/java/java-strings/) (4/11)
