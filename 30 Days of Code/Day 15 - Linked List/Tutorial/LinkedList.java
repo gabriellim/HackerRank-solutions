@@ -11,7 +11,6 @@ public class LinkedListUS {
 	// 	this.head = null;
 	// 	this.count = 0;
 	// }
-
 	public LinkedListUS(Node newHead) {
 		this.head = newHead;
 		this.count = 1;
