@@ -7,6 +7,7 @@ public class Solution {
         
         Scanner scan = new Scanner(System.in);
         String str = scan.nextLine();
+        scan.close();
         System.out.println(checkPalindrome(str));
     }
     

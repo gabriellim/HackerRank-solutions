@@ -8,6 +8,7 @@ public class Solution {
         String str = scan.nextLine();
         int start = scan.nextInt();
         int end = scan.nextInt();
+        scan.close();
         
         System.out.println(str.substring(start,end));
     }
