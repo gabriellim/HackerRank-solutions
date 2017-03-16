@@ -2,6 +2,7 @@
 
 Solving [HackerRank](https://www.hackerrank.com/)
 
+### Tutorials
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) (23/30 Java solutions)
   * Unfinished Days: 15, 22-24, 27-29
   * Finished Days: 0-14, 16-19, 20-21, 25-26
@@ -10,4 +11,5 @@ Solving [HackerRank](https://www.hackerrank.com/)
   * Unfinished Days: 1, 3-9
   * Finished Days: 0,2
 
+### Programming Languages
 * [Java](https://www.hackerrank.com/domains/java/)
