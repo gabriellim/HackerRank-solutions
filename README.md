@@ -1,6 +1,6 @@
 # HackerRank-solutions
 
-Solving [HackerRank](https://www.hackerrank.com/)
+## Solving [HackerRank Challenges](https://www.hackerrank.com/)
 
 ### Tutorials
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) (23/30 Java solutions)
