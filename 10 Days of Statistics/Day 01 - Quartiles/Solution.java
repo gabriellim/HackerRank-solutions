@@ -4,18 +4,20 @@ import java.util.*;
 public class Solution {
 
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        int n = Integer.parseInt(scan.nextLine());
-        int[] arr = sortedArrayBuilder(scan, n);
+        int[] arr = sortedArrayBuilder();
         getQuartiles(arr);
     }
     
-    static int[] sortedArrayBuilder(Scanner scan, int n) {
+    static int[] sortedArrayBuilder() {
+        Scanner scan = new Scanner(System.in);
+        int n = Integer.parseInt(scan.nextLine());
         int[] arr = new int[n];
+        
         for (int i = 0; i < n; i++) {
             arr[i] = scan.nextInt();
         }
         Arrays.sort(arr);
+        scan.close();
         return arr;
     }
     
