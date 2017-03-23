@@ -2,6 +2,8 @@
 
 ## Solving [HackerRank Challenges](https://www.hackerrank.com/)
 
+[sample](#core-cs)
+
 ### Tutorials
 * [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) (23/30 Java solutions)
   * Unfinished Days: 15, 22-24, 27-29
