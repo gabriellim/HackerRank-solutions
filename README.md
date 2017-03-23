@@ -24,3 +24,4 @@
 * [SQL](https://www.hackerrank.com/domains/sql/)
   * - [ ] [Basic Select](https://www.hackerrank.com/domains/sql/select) (14/20)
   * - [ ] [Aggregation](https://www.hackerrank.com/domains/sql/aggregation) (7/17)
+  * - [ ] [Basic Join](https://www.hackerrank.com/domains/sql/join) (1/8)
