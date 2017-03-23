@@ -19,7 +19,7 @@ public class Solution {
                 else if (i + j == n - 1) {
                     sumSecondaryDiag += num;
                 }
-                
+
                 if (n % 2 != 0) {
                     if (i == (n - 1)/2 && j == (n - 1)/2) {
                         sumSecondaryDiag += num;

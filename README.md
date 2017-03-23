@@ -13,7 +13,7 @@
 
 ### Core CS
 * [Algorithms](https://www.hackerrank.com/domains/algorithms)
-  * - [ ] [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) (2/9)
+  * - [ ] [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) (3/9)
 
 ### Programming Languages
 * [Java](https://www.hackerrank.com/domains/java/)
