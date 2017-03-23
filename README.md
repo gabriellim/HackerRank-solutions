@@ -23,3 +23,4 @@
 ### Skills
 * [SQL](https://www.hackerrank.com/domains/sql/)
   * - [ ] [Basic Select](https://www.hackerrank.com/domains/sql/select) (14/20)
+  * - [ ] [Aggregation](https://www.hackerrank.com/domains/sql/aggregation) (1/17)
