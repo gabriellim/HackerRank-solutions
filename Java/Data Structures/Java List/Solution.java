@@ -24,6 +24,8 @@ public class Solution {
         for (int j = 0; j < AL.size(); j++) {
             System.out.print(AL.get(j) + " ");
         }
+
+        scan.close();
     }
 
     static ArrayList<Integer> arrayListBuilder(Scanner scan) {
