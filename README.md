@@ -16,8 +16,8 @@
   * - [ ] [Warmup](https://www.hackerrank.com/domains/algorithms/warmup) (3/9)
 
 ### Programming Languages
-* [Java](https://www.hackerrank.com/domains/java/)
-  * - [ ] [Introduction Challenges](https://www.hackerrank.com/domains/java/java-introduction/) (10/13)
+* [Java](https://www.hackerrank.com/domains/java)
+  * - [ ] [Introduction](https://www.hackerrank.com/domains/java/java-introduction/) (10/13)
   * - [ ] [Strings](https://www.hackerrank.com/domains/java/java-strings/) (5/11)
   * - [ ] [BigNumber](https://www.hackerrank.com/domains/java/bignumber) (2/3)
   * - [ ] [Data Structures](https://www.hackerrank.com/domains/java/java-data-structure/) (7/15)
@@ -29,3 +29,5 @@
   * - [ ] [Basic Select](https://www.hackerrank.com/domains/sql/select) (14/20)
   * - [ ] [Aggregation](https://www.hackerrank.com/domains/sql/aggregation) (7/17)
   * - [ ] [Basic Join](https://www.hackerrank.com/domains/sql/join) (3/8)
+
+---
