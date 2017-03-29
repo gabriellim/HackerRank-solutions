@@ -20,7 +20,7 @@
   * - [ ] [Introduction Challenges](https://www.hackerrank.com/domains/java/java-introduction/) (10/13)
   * - [ ] [Strings](https://www.hackerrank.com/domains/java/java-strings/) (5/11)
   * - [ ] [BigNumber](https://www.hackerrank.com/domains/java/bignumber) (2/3)
-  * - [ ] [Data Structures](https://www.hackerrank.com/domains/java/java-data-structure/) (6/15)
+  * - [ ] [Data Structures](https://www.hackerrank.com/domains/java/java-data-structure/) (7/15)
   * - [ ] [Object Oriented Programming](https://www.hackerrank.com/domains/java/oop/) (8/9)
   * - [x] [Exception Handling](https://www.hackerrank.com/domains/java/handling-exceptions) (2/2)
 
