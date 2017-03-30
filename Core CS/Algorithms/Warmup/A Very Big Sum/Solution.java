@@ -14,5 +14,6 @@ public class Solution {
         }
 
         System.out.println(sum);
+        scan.close();
     }
 }
