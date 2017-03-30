@@ -10,7 +10,7 @@ public class Solution {
 
 
         for (int i = 0; i < n; i++) {
-            int num = (int)scan.nextInt();
+            int num = scan.nextInt();
             if (num  > 0) {
                 pos += 1;
             }
@@ -22,7 +22,7 @@ public class Solution {
             }
         }
         scan.close();
-        
+
         double posFrac = (double)pos/n;
         double negFrac = (double)neg/n;
         double zeroFrac = (double)zero/n;
