@@ -11,7 +11,7 @@ public class Solution {
 
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n;j++) {
-                int num = (int)scan.nextInt();
+                int num = scan.nextInt();
 
                 if (i == j) {
                     sumPrimaryDiag += num;
@@ -27,6 +27,7 @@ public class Solution {
                 }
             }
         }
+        scan.close();
 
         System.out.println(Math.abs(sumPrimaryDiag - sumSecondaryDiag));
     }
