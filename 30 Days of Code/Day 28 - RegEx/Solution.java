@@ -19,6 +19,7 @@ public class Solution {
                 al.add(firstName);
             }
         }
+        scan.close();
 
         Collections.sort(al);
 
