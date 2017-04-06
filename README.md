@@ -19,7 +19,7 @@
 
 ### Programming Languages
 * [Java](https://www.hackerrank.com/domains/java)
-  * - [ ] [Introduction](https://www.hackerrank.com/domains/java/java-introduction/) (11/13)
+  * - [ ] [Introduction](https://www.hackerrank.com/domains/java/java-introduction/) (12/13)
   * - [ ] [Strings](https://www.hackerrank.com/domains/java/java-strings/) (5/11)
   * - [ ] [BigNumber](https://www.hackerrank.com/domains/java/bignumber) (2/3)
   * - [ ] [Data Structures](https://www.hackerrank.com/domains/java/java-data-structure/) (7/15)
