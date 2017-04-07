@@ -25,6 +25,7 @@
   * - [ ] [Data Structures](https://www.hackerrank.com/domains/java/java-data-structure/) (8/15)
   * - [ ] [Object Oriented Programming](https://www.hackerrank.com/domains/java/oop/) (8/9)
   * - [x] [Exception Handling](https://www.hackerrank.com/domains/java/handling-exceptions) (2/2)
+  * - [ ] [Advanced](https://www.hackerrank.com/domains/java/java-advanced) (1/12)
 
 ### Skills
 * [SQL](https://www.hackerrank.com/domains/sql/)
